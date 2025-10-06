@@ -96,6 +96,6 @@ You can down the datasets from the "Netflix Dataset folder"-
 "netflix_data_cleaned.csv" is the dataset after cleaning
 
 To view the datasets-
-"netflix_data_before.png" is the image of hte dataset before cleaning
-"netflix_data_cleaned.png" is the image of the dataset after cleaning
+"netflix_data_before.png" - the image of the dataset before cleaning
+"netflix_data_cleaned.png" - the image of the dataset after cleaning
 
