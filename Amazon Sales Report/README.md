@@ -16,7 +16,7 @@ The process includes **data cleaning** and **exploratory data analysis (EDA)** u
 | -------------------------- | ------------------------------------------------------------------ |
 | `Amazon Sales Report.csv`  | Raw dataset containing unprocessed Amazon sales data.              |
 | `Amazon_Sales_Cleaned.csv` | Cleaned dataset after fixing missing values and formatting issues. |
-| `Welcome_To_Colab.ipynb`   | Colab notebook with complete EDA workflow.                         |
+| `ASR_Colab.ipynb`   | Colab notebook with complete EDA workflow.                         |
 | `README.md`                | Project documentation.                                             |
 
 ---
