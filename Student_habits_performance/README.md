@@ -27,7 +27,7 @@ The dataset used is `student_habits_performance.csv`. It contains 1000 entries a
 ## Analysis & Cleaning Steps
 
 1.  **Data Loading:** The dataset is loaded into a pandas DataFrame.
-2.  Initial Inspection: df.head(), df.info(), df.describe(), and df.dtypes are used to get an overview of the data structure, check column data types, and view summary statistics.
+2.  **Initial Inspection:** df.head(), df.info(), df.describe(), and df.dtypes are used to get an overview of the data structure, check column data types, and view summary statistics.
 3.  **Data Cleaning:**
       * **Handling Missing Values:** The `parental_education_level` column contains 91 entries with the string `'None'`, which is treated as a valid category and is not modified.
       * **Duplicate Check:** The dataset is checked for duplicate rows (none were found).
